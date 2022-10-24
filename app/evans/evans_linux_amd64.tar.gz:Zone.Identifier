@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/ktr0731/evans/releases/tag/0.9.1
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/97361468/04f18200-ef06-11ea-88d7-6d59905db607?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221010T182758Z&X-Amz-Expires=300&X-Amz-Signature=804cf781151e09d5bfdc807e53b55dafe60923d3725244e4ce3948508ce977a0&X-Amz-SignedHeaders=host&actor_id=33915069&key_id=0&repo_id=97361468&response-content-disposition=attachment%3B%20filename%3Devans_linux_amd64.tar.gz&response-content-type=application%2Foctet-stream

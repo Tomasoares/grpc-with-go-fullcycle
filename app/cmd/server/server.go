@@ -14,7 +14,7 @@ import (
 func main() {
 	fmt.Println("Initiating server...")
 
-	lis, err := net.Listen("tcp", "localhost:50021")
+	lis, err := net.Listen("tcp", "localhost:50051")
 	if err != nil {
 		log.Fatalf("Could not connect: %v", err)
 	}
